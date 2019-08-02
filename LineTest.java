@@ -4,6 +4,7 @@ import static org.junit.Assert.assertTrue;
 
 import org.junit.jupiter.api.Test;
 
+
 public class LineTest {
 	Line line = new Line(3, 4, 5, 6);
 	
