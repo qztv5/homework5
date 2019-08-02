@@ -1,7 +1,5 @@
 package com.Anderson.homework5;
 
-import java.util.Arrays;
-
 public class Procon {
 	
 	public static void main(String[] args) throws InterruptedException
